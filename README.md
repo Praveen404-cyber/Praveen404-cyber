@@ -1,5 +1,5 @@
 <h1 align="center">ආයුබෝවන්! (Ayubowan) 🙏, I'm Praveen Perera</h1>
-<h3 align="center">Cybersecurity & Network Security Specialist | Digital Forensics |Researcher | Journalist | AMCSSL</h3>
+<h3 align="center">Cybersecurity & Network Security Specialist | Digital Forensics | Researcher | Journalist | AMCSSL</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=BSc+(Hons)+Cyber+Security+%26+Digital+Forensics;Network+Administration+%7C+Threat+Hunting;Hardware+Security+%7C+IoT+Prototyping;Media+Archivist+%7C+Photojournalist" alt="Typing SVG" />
