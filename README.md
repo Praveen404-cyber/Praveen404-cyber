@@ -61,24 +61,15 @@
 
 ### 📊 GitHub Activity
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen404-cyber&theme=dracula" width="100%" alt="Profile Details" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praveen404-cyber&theme=dracula" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveen404-cyber&theme=dracula" width="100%" alt="Overall Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen404-cyber&theme=dracula" width="100%" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen404-cyber&theme=dracula" width="50%" alt="Praveen's Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praveen404-cyber&theme=dracula" width="48%" alt="Praveen's Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praveen404-cyber&theme=dracula" width="48%" alt="GitHub Overall Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praveen404-cyber&theme=dracula" width="48%" alt="Productive Time" />
+</p>
 
 ---
 
