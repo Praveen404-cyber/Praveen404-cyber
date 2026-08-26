@@ -2,13 +2,13 @@
 <h3 align="center">Cybersecurity & Network Security Specialist | Digital Forensics | AMCSSL</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=BSc+(Hons)+in+Cyber+Security+%26+Digital+Forensics;Network+Administration+%7C+Threat+Hunting;Hardware+Security+%7C+IoT+Prototyping;Media+Archivist+%7C+Photojournalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=BSc+(Hons)+Cyber+Security+%26+Digital+Forensics;Network+Administration+%7C+Threat+Hunting;Hardware+Security+%7C+IoT+Prototyping;Media+Archivist+%7C+Photojournalist" alt="Typing SVG" />
 </p>
 
 ---
 
 <div align="center">
-  <img height="900" src="https://camo.githubusercontent.com/d9a424122613ba1bf160045547d5f6933b3f8b681c97ff5a8fc380cf7003c480/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38612f37382f38382f38613738383864363634323533323963653233393934313334663835616661332e676966" alt="Cyber Animation" />
+  <img height="350" src="https://camo.githubusercontent.com/d9a424122613ba1bf160045547d5f6933b3f8b681c97ff5a8fc380cf7003c480/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38612f37382f38382f38613738383864363634323533323963653233393934313334663835616661332e676966" alt="Cyber Animation" />
 </div>
 
 ---
