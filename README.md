@@ -62,7 +62,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen404-cyber&theme=dracula" width="50%" alt="Praveen's Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praveen404-cyber&theme=dracula" width="48%" alt="Praveen's Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praveen404-cyber&theme=dracula" width="48%" alt="Praveen's Top Languages" />
 </div>
 
