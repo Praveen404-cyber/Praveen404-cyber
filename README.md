@@ -16,12 +16,13 @@
 ### 🔍 About Me
 
 - 🎓 **BSc (Hons) in Cyber Security & Digital Forensics** (First-Class Honours) – Kingston University
+- 🏆 **Academic Excellence Award Winner & Batch Top** – Cardiff Metropolitan University 
 - 🏅 **Associate Member (AMCSSL)** – Computer Society of Sri Lanka
+- 📷 **Internationally Recognized Photographer** – Work selected & displayed at the United Nations Photo Exhibition in Geneva (July 2026)
 - 🏛️ **10+ Years Experience** in Network Administration, Systems, and Digital Media Archives in government environments
 - 🛡️ **Core Focus**: Network Security, Threat Hunting & Mitigation, RF/Hardware Security, and Digital Forensics
 - 📍 Based in **Sri Lanka**
 - 🗣️ **Languages**: Sinhala (Native), English (Proficient), Dutch (Intermediate)
-
 ---
 
 ### 🛠️ Technical Stack
