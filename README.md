@@ -7,7 +7,7 @@
 
 ### 🔍 About Me
 
-🎓 **BSc (Hons) in Cyber Security & Digital Forensics** (Reading)  
+🎓 **BSc (Hons) in Cyber Security & Digital Forensics** First-Class Honours
 📌 Based in **Sri Lanka**  
 💼 **More than a decade** of experience in **IT, Cybersecurity, and Media sectors**  
 🌐 Worked with **foreign delegations & Sri Lankan government bodies**  
