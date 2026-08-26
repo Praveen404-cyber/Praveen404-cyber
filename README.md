@@ -61,8 +61,8 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praveen404-cyber&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true" height="160" alt="Praveen's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen404-cyber&layout=compact&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Praveen404-cyber&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Praveen404-cyber&layout=compact&theme=dracula&hide_border=false" height="160" alt="Top Languages" />
 </div>
 
 ---
